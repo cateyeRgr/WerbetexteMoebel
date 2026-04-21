@@ -19,7 +19,8 @@ Perfekt kombinierbar für Wohnzimmer, Lounge oder Home Office
 
 Gönnen Sie sich Design, das nicht nur gut aussieht, sondern sich auch gut anfühlt.
 </p>
-
+<p>
+<p/>
 <p>
   <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/7a11d979-f1e1-4755-90e8-515836943bea" />
 (Image by xadartstudio on Freepik)
@@ -42,6 +43,9 @@ Perfekt für Familien, Gäste und entspannte Stunden
 Setzen Sie ein Statement für Stil und Gemütlichkeit – mit einem Sofa, das mehr ist als nur ein Möbelstück.
 </p>
 
+<p>
+<p/>
+  
 <p>
   <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/910e7374-041c-4f80-9ee2-d8007f56f283" />
 (Image by rawpixel.com on Freepik)
